@@ -6,7 +6,7 @@ import pytesseract
 import os
 
 # Initialize Moondream model (Replace with your API key)
-model = md.vl(api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlfaWQiOiI3N2U0NGYzMi0xNTk0LTRjNDgtYjBiZi01NWE0MDZlZGFhNWMiLCJpYXQiOjE3NDMxNjg5Mjh9.lkEWNzn6pM171N4wub9-HGfk_Sw-ezCUUX4EG9_tNP0")
+model = md.vl(api_key="")
 
 def process_meme(image_path):
     image = Image.open(image_path)
