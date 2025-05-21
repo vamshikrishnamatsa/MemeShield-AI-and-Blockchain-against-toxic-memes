@@ -1,9 +1,6 @@
 # 🛡️ MemeShield: AI + Blockchain Powered Cyberbullying Detection in Memes
 
-![Streamlit](https://img.shields.io/badge/Streamlit-AI%20WebApp-red?style=flat&logo=streamlit)
-![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-blue?style=flat&logo=ethereum)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
 ---
 
@@ -31,15 +28,17 @@ Memes today are often used to subtly spread harmful or derogatory content that b
 
 | Category        | Tools Used                                         |
 |----------------|----------------------------------------------------|
-| 💡 AI/ML       | MoonDream, Tesseract OCR                           |
-| 🌐 Frontend    | Streamlit                                          |
+| 💡 AI/ML       | MoonDream                          |
+| 🌐 Frontend    | Streamlit ,React                                        |
 | 🔗 Blockchain  | Ethereum, IPFS, web3.py / ethers.js                |
 | 🔍 Others      | Reddit API, Pillow, NumPy                          |
-| 🐍 Language     | Python 3.8+                                        |
+| 🐍 Language     | Python 3.8+ ,javaScript                                  |
 
 ---
 
 ## ⚙️ How It Works
+![image](https://github.com/user-attachments/assets/e27043fd-cfc7-45df-948d-2143b4fc725d)
+
 
 1. **Input Meme**: User uploads or fetches meme from Reddit.
 2. **OCR**: Extracts text from the meme image.
@@ -52,4 +51,13 @@ Memes today are often used to subtly spread harmful or derogatory content that b
 ---
 
 ## outputs
+![image](https://github.com/user-attachments/assets/e8ec6977-089d-4a1c-a9bf-c3d34187cc40)
+![image](https://github.com/user-attachments/assets/b653b541-6ed2-4c03-91c9-cfc5973c5a4a)
+![image](https://github.com/user-attachments/assets/12109cd7-cb5a-4fa3-8293-4401d58d4b20)
+## Testcases
+![image](https://github.com/user-attachments/assets/4ee15107-3940-462b-84eb-c61edc6d4343)
+
+
+
+
 
